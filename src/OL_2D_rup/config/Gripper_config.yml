@@ -1,0 +1,3 @@
+# =====  Gripper params  ======
+open_pos: [2.1; 0.1; 1.3]
+close_force_thres: [160; 160; 160]

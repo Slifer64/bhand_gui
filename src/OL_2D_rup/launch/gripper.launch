@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+
+<launch>
+
+    <!-- Object load controller -->
+    <node pkg="ol_2d_rup" type="gripper_node" name="gripper_node"
+          output="screen" cwd="node">
+    </node>
+
+</launch>
